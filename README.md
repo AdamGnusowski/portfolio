@@ -1,14 +1,15 @@
-# Portfolio
+# My Portfolio
 
-Hello. 
-<br>*Here you can find my portfolio projects.*
+Hello 
+<br>Here you can find my portfolio projects.
 
-- Codewars account 
-<br>I have an codewars account where I learn and practice my coding skills, lately I am reviewing Java. <br>
-Below is my gadge with link to my account.<br>
-[https://www.codewars.com/users/Bee7eeB/badges/large](https://www.codewars.com/users/Bee7eeB)
+<br>
+
+* Codewars account 
+
+<a target="_blank" href="https://www.codewars.com/users/Bee7eeB"><img src="https://www.codewars.com/users/Bee7eeB/badges/large" alt="codewars badge large" /></a>
 
 
-
+<br><br><br>
 
 <sup><sub>work in progress</sub></sup>
